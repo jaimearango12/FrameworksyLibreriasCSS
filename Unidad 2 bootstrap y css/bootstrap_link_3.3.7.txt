@@ -1,0 +1,19 @@
+Pegar esto dentro de head para usar bootstrap
+
+
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+
+Para trabajar boostrap offline una vez descargado en la version 3.3.7 dirigirse a la carpeta dist y copiar la carpeta css, y finalmente pegarla en la carpeta donde dese ubicara el docmuento indes html.
+
+para enlazarlo desde el html de coloca en html:   
+
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
+
+
+
+para encontrar esa version ir a http://blog.getboots…7/25/bootstrap-3-3-7-released/
